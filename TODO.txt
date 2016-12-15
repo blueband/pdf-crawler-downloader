@@ -1,0 +1,32 @@
+				-----------------------
+			BlueRazor ver: 3.1r(PDF File Crawler and Downloader)
+					-----------------------
+				December 15, 2016
+##############################################################################################################################################
+################################	Disclaimer:
+#######################	This is an experimental software that used google seach engine to retrieve desire data. kindly check Google terms for#	#######################	quering of it search engine resource.
+##############################################################################################################################################
+
+(1). Please follow the instructions before use.
+
+(i) Click and Install the software.
+(ii) Launch the application
+(iii).Use the search interface to search for desire document.
+ (iv).All PDF fileswill be avaialable in the same folder as the application "
+ (v).List of PDF url (both queue and Crawled/Dowload PDF url) will be inside the keyword folder
+ 
+2.You can always delete the txt file inside the Keyword folder to start afresh
+
+	-----------------------------------------------		
+			TODO
+	------------------------------------------------
+1. Incorporate other search engine
+2. change the working directory, when file is been download
+3. Adding Neccesary Menu
+4. Enable user to determine number of thread to be use
+5. Allowing User to determine number of PDF file to be actually download
+6. Displaying all feedback on the application
+
+BlueRazor ver: 3.1r(PDF File Crawler and Downloader)
+1.	Adding Readme file
+2.	
