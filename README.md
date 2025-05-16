@@ -12,7 +12,7 @@ This is an experimental work, kindly note that,you should not use this aaplicati
 
 At moment, The software only crawl Google Search engine and the returned data is parse by the Software.
 
-The Software work on three princile, SEARCH... CRAWL...and DOWNLOAD.
+The Software work on three principle, SEARCH... CRAWL...and DOWNLOAD.
 
 Please report any bug.
 This is a work-in-process work.
